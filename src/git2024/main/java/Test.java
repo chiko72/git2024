@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("commit c2");
 		//plus
 		//
-
+		//Après ignorer Test.class
 	}
 
 }
