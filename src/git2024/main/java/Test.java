@@ -11,6 +11,9 @@ public class Test {
 		//Après ignorer Test.class
 		//ici
 		//et la
+		System.out.println("commit3");
+
+
 	}
 
 }
