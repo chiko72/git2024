@@ -10,6 +10,7 @@ public class Test {
 		//
 		//Après ignorer Test.class
 		//ici
+		//et la
 	}
 
 }
